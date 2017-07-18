@@ -1,0 +1,9 @@
+{
+	"applinks": {
+		"apps": [],
+		"details": [{
+			"appID": "87LC36G5W6.com.fetnet.hanks",
+			"paths": ["http://ebu2.ddns.net/deeplink_test/*"]
+		}]
+	}
+}

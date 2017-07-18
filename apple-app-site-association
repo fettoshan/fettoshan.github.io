@@ -1,14 +1,1 @@
-{
-	"applinks": {
-		"apps": [],
-		"details": [{
-				"appID": "87LC36G5W6.com.fetnet.hanks",
-				"paths": ["*", "/dic/*"]
-			},
-			{
-				"appID": "87LC36G5W6.com.fetnet.hanks",
-				"paths": ["*"]
-			}
-		]
-	}
-}
+{ "applinks": { "apps": [], "details": [ { "appID": "87LC36G5W6.com.fetnet.hanks", "paths": [ "*", "/"] } ] } }
